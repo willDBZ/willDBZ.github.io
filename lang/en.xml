@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<langText>
+	<index>
+		<title>LangoMix</title>
+		<sectionTitle>Apprenez des nouvelles langues!</sectionTitle>
+		<text></text>
+		<more>En savoir plus</more>
+	</index>
+
+	
+	<menu>
+		<lien1>Accueil</lien1>
+		<lien2>Nouveau blog</lien2>
+		<lien3>Statistiques</lien3>
+		<lien4></lien4>
+
+		<connexion1>Inscription</connexion1>
+		<connexion2>Connexion</connexion2>
+		<logout>Déconnexion</logout>
+	</menu>
+
+	<login>
+		<title>Formulaire de connexion</title>
+		<user>Utilisateur</user>
+		<password>Mot de passe</password>
+		<userField>Entrer le nom d'utilisateur</userField>
+		<passwordField>Entrer le mot de passe</passwordField>
+		<connect>Se connecter</connect>
+		<remember>Rester connecter</remember>
+		<forgot>Mot de passe oublié?</forgot>
+		<annuler>Annuler</annuler>
+	</login>
+
+	<inscription>
+		<title>Formulaire d'inscription</title>
+		<firstName>Prénom</firstName>
+		<lastName>Nom</lastName>
+		<user>Usager</user>
+		<email>Email</email>
+		<password>Mot de passe</password>
+		<passwordVerify>Confirmer mot de passe</passwordVerify>
+
+		<textareaFirstname>Entrer votre prénom</textareaFirstname>
+		<textareaLastname>Entrer votre nom</textareaLastname>
+		<textareaUser>Entrer l'usager</textareaUser>
+		<textareaEmail>Entrer un courriel</textareaEmail>
+		<textareaPassword>Entrer le mot de passe</textareaPassword>
+		<textareaPasswordVerify>Confirmer le mot de passe</textareaPasswordVerify>
+
+		<signup>S'inscrire</signup>
+	</inscription>
+
+
+	<creationBlog>
+		<textfieldDefaut>Commencez votre blog ici.</textfieldDefaut>
+		<save>Enregistrer</save>
+		<chooseFile>Choisir un fichier à téléverser</chooseFile>
+		<search>Parcourir...</search>
+		<noSelection>Aucun fichier sélectionné.</noSelection>
+		<uploadedFile>Documents téléversés</uploadedFile>
+		<upload>Téléverser</upload>
+	</creationBlog>
+	
+	<services>
+		<sectionIci></sectionIci>
+	</services>
+	
+</langText>
